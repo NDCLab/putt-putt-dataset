@@ -5,3 +5,6 @@ This folder contains the questionnaires (exported directly from REDCap) used in 
 
 
 ### Project Notes
+
+Some of the questionnaires in this folder may not be used in this study. 
+
