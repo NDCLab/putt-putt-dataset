@@ -1,0 +1,10 @@
+﻿Social Anxiety, Error-related Brain Activity, and Performance Under Social Observation 
+
+
+Sarah Malykke, Olivia A. Stibolt, and George A. Buzzell
+
+
+Department of Psychology and the Center for Children and Families, Florida International University, 11200 SW 8th St, Miami, FL 33199. smaly002@fiu.edu, ostib001@fiu.edu, gbuzzell@fiu.edu.
+
+
+Social anxiety is a prevalent mental disorder among adolescents and young adults in the United States, where an estimated 9.1% of 13-29 year olds suffer from it. Prior studies suggest that social anxiety is linked to particular profiles of cognitive control ability. Moreover, some forms of cognitive control (e.g., error monitoring) and social anxiety are influenced by social observation such that socially anxious individuals show more error-related brain activity under social observation. Yet, these studies are limited in showing the effects of social observation within more ecologically valid, “real world” settings. Our current study seeks to test whether error-related brain activity, while under social observation, differs between socially anxious and non-anxious participants within an ecologically valid task context. Towards this end, we will assess error-related brain activity via Electroencephalography (EEG) during a real-world sports task (golfing), as well as via a more traditional, computer-based task. By employing an ecologically valid sports task, this study not only has the potential to translate prior laboratory-based research into the applied, real-world domain, but also has potential implications for understanding “choking under pressure” in the context of sports. Data will be analyzed using MATLAB/ R.. We hypothesize that individuals with social anxiety will exhibit elevated error-related brain activity in the presence of others, whether on a traditional lab-based computer task or within an ecologically-valid sports task. Moreover, we hypothesize that the ecological valid task will correlate more strongly with measures of social anxiety.
