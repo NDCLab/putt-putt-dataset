@@ -1,4 +1,4 @@
-﻿Social Anxiety, Error-related Brain Activity, and Performance Under Social Observation 
+﻿Social Anxiety, Error-Related Brain Activity, and Performance Under Social Observation 
 
 
 Sarah Malykke, Olivia A. Stibolt, and George A. Buzzell
