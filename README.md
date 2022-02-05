@@ -1,19 +1,19 @@
 # putt-putt dataset
 
 ## Project Goal
-This dataset seeks to test whether error-related brain activity differs between socially anxious and non-anxious participants within an ecologically valid task context. Towards this end, we will assess error-related brain activity during a real-world golf task. 
+This dataset seeks to seeks to help answer questions about whether error-related brain activity differs between socially anxious and non-anxious participants within an ecologically valid task context. Towards this end, we will assess error-related brain activity during a real-world golf task. 
 
 By employing a sports task for the ecologically valid task, the study also has potential implications for understanding choking under pressure in the context of sports.
 
 
 ## Background & Design
-Prior research has shown that socially anxious individuals show more error-related brain activity under social observation (Buzzell et al., 2020). However, the majority of prior work has focused on highly constrained lab tasks that bear little resemblance to real-world situations. There is little work investigating the effect of social context on relations between social anxiety and more ecologically valid measures of cognitive control (e.g., cognitive control during sport performance). The current study aims to not only close these gaps in a broader investigation of how particular cognitive abilities, and personality or social factors, relate to mental health outcomes.
+Prior research has shown that socially anxious individuals show more error-related brain activity under social observation [Buzzell et al., 2019] (https://www.sciencedirect.com/science/article/pii/S1053811919303696?via%3Dihub). However, there is little work investigating the effect of social context on relations between social anxiety and more ecologically valid measures of cognitive control (e.g., cognitive control during sport performance). The current study aims to close these gaps in a broader investigation of how particular cognitive abilities, and personality or social factors, relate to mental health outcomes.
 
-Participants will complete a set of questionnaires assessing social anxiety followed by a flanker task (assessing inhibitory control abilities) along with a golf putting task. Each task will be completed twice; once while alone (creating a “nonsocial context”) and once while being observed by the experimenter (creating a “social context”). We use EEG to assess error detection. 
+Participants complete a set of questionnaires assessing social and performance anxiety, emotions, and mental health followed by a flanker task (assessing inhibitory control abilities) along with a golf putting task. Each task is completed twice; once while alone (creating a “nonsocial context”) and once while being observed by the experimenter (creating a “social context”). We use the Brain Vision ActiCHamp 64 channel EEG system to assess error detection. 
 
 
 ## Roadmap
-**Release:** January 2022
+**Release:** Q2 2022
 
 
 ## Work in Development
@@ -25,13 +25,11 @@ This `main` branch contains completed releases for this project. For all work-in
 ## Contributors
 | Name | Role |
 | ---  | ---  |
-| George Buzzell | Principal Investigator |
-| Sarah Malykke | Project Lead |
-| Olivia Stibolt | PhD Student |
-| Ian Cespedes | Junior Research Assistant |
-| Will Padua Jimenez | Junior Research Assistant |
-| Ada Chow | Junior Research Assistant |
-| Lauren Weber | Junior Research Assistant |
+| Conceptualization | Sarah Malykke |
+| Project Administration | Sarah Malykke, Olivia A. Stibolt |
+| Supervision | Dr. George A. Buzzell |
+| Data Collection | Ian Cespedes, William Padua Jimenez, Ada Chow-Franjul, Lauren Weber |
+
 
 Learn more about us [here](www.ndclab.com/people).
 
