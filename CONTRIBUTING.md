@@ -34,7 +34,7 @@ project-name
 ├── literature
 ├── materials
     ├──questionnaires
-    ├──task1
+    ├──flanker_golf_tasks
           ├──protocol.md
           ├──scripts
           ├──stimuli
