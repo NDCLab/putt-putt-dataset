@@ -21,7 +21,7 @@ This `main` branch contains completed releases for this project. For all work-in
 
 
 ## Contributors
-| Name | Role |
+| Role | Name |
 | ---  | ---  |
 | Conceptualization | Sarah Malykke |
 | Project Administration | Sarah Malykke, Olivia A. Stibolt |
