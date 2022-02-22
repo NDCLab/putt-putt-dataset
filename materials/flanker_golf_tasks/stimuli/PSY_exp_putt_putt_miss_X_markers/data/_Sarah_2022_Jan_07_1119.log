@@ -1,0 +1,24 @@
+1.3557 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+7.6705 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fdcb17acb38>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fdcce635eb8>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.6708 	EXP 	window1: mouseVisible = True
+7.6708 	EXP 	window1: recordFrameIntervals = False
+7.8365 	EXP 	window1: recordFrameIntervals = True
+8.0197 	EXP 	window1: recordFrameIntervals = False
+10.0184 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='images/target.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+10.0190 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+10.0192 	EXP 	New trial (rep=0, index=0): None
+10.0366 	EXP 	image: autoDraw = True
+11.0355 	EXP 	New trial (rep=1, index=0): None
+11.0517 	EXP 	image: autoDraw = False
+11.0517 	EXP 	image: autoDraw = True
+12.0194 	EXP 	New trial (rep=2, index=0): None
+12.0358 	EXP 	image: autoDraw = False
+12.0358 	EXP 	image: autoDraw = True
+13.0199 	EXP 	New trial (rep=3, index=0): None
+13.0356 	EXP 	image: autoDraw = False
+13.0356 	EXP 	image: autoDraw = True
+14.0206 	EXP 	New trial (rep=4, index=0): None
+14.0359 	EXP 	image: autoDraw = False
+14.0359 	EXP 	image: autoDraw = True
+15.0349 	EXP 	image: autoDraw = False
+15.6300 	EXP 	window1: mouseVisible = True
