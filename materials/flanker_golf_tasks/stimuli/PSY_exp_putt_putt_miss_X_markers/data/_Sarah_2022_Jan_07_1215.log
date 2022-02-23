@@ -1,0 +1,50 @@
+1.5900 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+8.1860 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f7a12c11898>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f7a13b47240>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.1863 	EXP 	window1: mouseVisible = True
+8.1864 	EXP 	window1: recordFrameIntervals = False
+8.3513 	EXP 	window1: recordFrameIntervals = True
+8.5357 	EXP 	window1: recordFrameIntervals = False
+10.1712 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+10.1819 	EXP 	Imported conditions.xlsx as conditions, 10 conditions, 1 params
+10.1827 	EXP 	Created sequence: sequential, trialTypes=10, nReps=1, seed=None
+10.1831 	EXP 	New trial (rep=0, index=0): {'images': 'images/target.png'}
+10.2685 	EXP 	image: image = 'images/target.png'
+15.2648 	EXP 	image: autoDraw = True
+16.1860 	EXP 	New trial (rep=0, index=1): {'images': 'images/target.png'}
+16.2427 	EXP 	image: autoDraw = False
+16.2427 	EXP 	image: image = 'images/target.png'
+21.2354 	EXP 	image: autoDraw = True
+22.1879 	EXP 	New trial (rep=0, index=2): {'images': 'images/target.png'}
+22.2546 	EXP 	image: autoDraw = False
+22.2546 	EXP 	image: image = 'images/target.png'
+27.2519 	EXP 	image: autoDraw = True
+28.1853 	EXP 	New trial (rep=0, index=3): {'images': 'images/target.png'}
+28.2397 	EXP 	image: autoDraw = False
+28.2397 	EXP 	image: image = 'images/target.png'
+33.2362 	EXP 	image: autoDraw = True
+34.1848 	EXP 	New trial (rep=0, index=4): {'images': 'images/target.png'}
+34.2388 	EXP 	image: autoDraw = False
+34.2388 	EXP 	image: image = 'images/target.png'
+39.2348 	EXP 	image: autoDraw = True
+40.1858 	EXP 	New trial (rep=0, index=5): {'images': 'images/target.png'}
+40.2440 	EXP 	image: autoDraw = False
+40.2440 	EXP 	image: image = 'images/target.png'
+45.2346 	EXP 	image: autoDraw = True
+46.1853 	EXP 	New trial (rep=0, index=6): {'images': 'images/target.png'}
+46.2430 	EXP 	image: autoDraw = False
+46.2430 	EXP 	image: image = 'images/target.png'
+51.2347 	EXP 	image: autoDraw = True
+52.1849 	EXP 	New trial (rep=0, index=7): {'images': 'images/target.png'}
+52.2415 	EXP 	image: autoDraw = False
+52.2415 	EXP 	image: image = 'images/target.png'
+57.2180 	EXP 	image: autoDraw = True
+58.1855 	EXP 	New trial (rep=0, index=8): {'images': 'images/target.png'}
+58.2451 	EXP 	image: autoDraw = False
+58.2451 	EXP 	image: image = 'images/target.png'
+63.2344 	EXP 	image: autoDraw = True
+64.1856 	EXP 	New trial (rep=0, index=9): {'images': 'images/target.png'}
+64.2451 	EXP 	image: autoDraw = False
+64.2451 	EXP 	image: image = 'images/target.png'
+69.2340 	EXP 	image: autoDraw = True
+70.2015 	EXP 	image: autoDraw = False
+70.8096 	EXP 	window1: mouseVisible = True

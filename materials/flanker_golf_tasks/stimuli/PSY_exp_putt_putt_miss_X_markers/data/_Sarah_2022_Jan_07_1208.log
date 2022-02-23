@@ -1,0 +1,158 @@
+1.1224 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+6.9708 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f7d5ecc0898>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f7d4251d240>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.9711 	EXP 	window1: mouseVisible = True
+6.9711 	EXP 	window1: recordFrameIntervals = False
+7.1373 	EXP 	window1: recordFrameIntervals = True
+7.3205 	EXP 	window1: recordFrameIntervals = False
+8.8414 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+8.8519 	EXP 	Imported conditions.xlsx as conditions, 10 conditions, 1 params
+8.8525 	EXP 	Created sequence: sequential, trialTypes=10, nReps=5, seed=None
+8.8529 	EXP 	New trial (rep=0, index=0): {'images': 'images/target.png'}
+8.9408 	EXP 	image: image = 'images/target.png'
+9.0241 	EXP 	image: autoDraw = True
+9.5534 	EXP 	New trial (rep=0, index=1): {'images': 'images/target.png'}
+9.6098 	EXP 	image: autoDraw = False
+9.6098 	EXP 	image: image = 'images/target.png'
+9.6871 	EXP 	image: autoDraw = True
+10.2558 	EXP 	New trial (rep=0, index=2): {'images': 'images/target.png'}
+10.3188 	EXP 	image: autoDraw = False
+10.3188 	EXP 	image: image = 'images/target.png'
+10.4052 	EXP 	image: autoDraw = True
+10.9568 	EXP 	New trial (rep=0, index=3): {'images': 'images/target.png'}
+11.0195 	EXP 	image: autoDraw = False
+11.0195 	EXP 	image: image = 'images/target.png'
+11.1212 	EXP 	image: autoDraw = True
+11.6561 	EXP 	New trial (rep=0, index=4): {'images': 'images/target.png'}
+11.7187 	EXP 	image: autoDraw = False
+11.7187 	EXP 	image: image = 'images/target.png'
+11.8031 	EXP 	image: autoDraw = True
+12.3542 	EXP 	New trial (rep=0, index=5): {'images': 'images/target.png'}
+12.4038 	EXP 	image: autoDraw = False
+12.4038 	EXP 	image: image = 'images/target.png'
+12.5032 	EXP 	image: autoDraw = True
+13.0548 	EXP 	New trial (rep=0, index=6): {'images': 'images/target.png'}
+13.1084 	EXP 	image: autoDraw = False
+13.1084 	EXP 	image: image = 'images/target.png'
+13.2036 	EXP 	image: autoDraw = True
+13.7537 	EXP 	New trial (rep=0, index=7): {'images': 'images/target.png'}
+13.8041 	EXP 	image: autoDraw = False
+13.8041 	EXP 	image: image = 'images/target.png'
+13.9035 	EXP 	image: autoDraw = True
+14.4537 	EXP 	New trial (rep=0, index=8): {'images': 'images/target.png'}
+14.5047 	EXP 	image: autoDraw = False
+14.5047 	EXP 	image: image = 'images/target.png'
+14.6033 	EXP 	image: autoDraw = True
+15.1541 	EXP 	New trial (rep=0, index=9): {'images': 'images/target.png'}
+15.2069 	EXP 	image: autoDraw = False
+15.2069 	EXP 	image: image = 'images/target.png'
+15.3029 	EXP 	image: autoDraw = True
+15.8564 	EXP 	New trial (rep=1, index=0): {'images': 'images/target.png'}
+15.9192 	EXP 	image: autoDraw = False
+15.9192 	EXP 	image: image = 'images/target.png'
+16.0036 	EXP 	image: autoDraw = True
+16.5543 	EXP 	New trial (rep=1, index=1): {'images': 'images/target.png'}
+16.6116 	EXP 	image: autoDraw = False
+16.6116 	EXP 	image: image = 'images/target.png'
+16.7050 	EXP 	image: autoDraw = True
+17.2553 	EXP 	New trial (rep=1, index=2): {'images': 'images/target.png'}
+17.3111 	EXP 	image: autoDraw = False
+17.3111 	EXP 	image: image = 'images/target.png'
+17.4044 	EXP 	image: autoDraw = True
+17.9551 	EXP 	New trial (rep=1, index=3): {'images': 'images/target.png'}
+18.0194 	EXP 	image: autoDraw = False
+18.0194 	EXP 	image: image = 'images/target.png'
+18.1209 	EXP 	image: autoDraw = True
+18.6550 	EXP 	New trial (rep=1, index=4): {'images': 'images/target.png'}
+18.7188 	EXP 	image: autoDraw = False
+18.7188 	EXP 	image: image = 'images/target.png'
+18.8052 	EXP 	image: autoDraw = True
+19.3576 	EXP 	New trial (rep=1, index=5): {'images': 'images/target.png'}
+19.4201 	EXP 	image: autoDraw = False
+19.4201 	EXP 	image: image = 'images/target.png'
+19.5210 	EXP 	image: autoDraw = True
+20.0537 	EXP 	New trial (rep=1, index=6): {'images': 'images/target.png'}
+20.1073 	EXP 	image: autoDraw = False
+20.1073 	EXP 	image: image = 'images/target.png'
+20.2033 	EXP 	image: autoDraw = True
+20.7553 	EXP 	New trial (rep=1, index=7): {'images': 'images/target.png'}
+20.8198 	EXP 	image: autoDraw = False
+20.8198 	EXP 	image: image = 'images/target.png'
+20.9046 	EXP 	image: autoDraw = True
+21.4566 	EXP 	New trial (rep=1, index=8): {'images': 'images/target.png'}
+21.5210 	EXP 	image: autoDraw = False
+21.5210 	EXP 	image: image = 'images/target.png'
+21.6217 	EXP 	image: autoDraw = True
+22.1538 	EXP 	New trial (rep=1, index=9): {'images': 'images/target.png'}
+22.2055 	EXP 	image: autoDraw = False
+22.2055 	EXP 	image: image = 'images/target.png'
+22.3039 	EXP 	image: autoDraw = True
+22.8548 	EXP 	New trial (rep=2, index=0): {'images': 'images/target.png'}
+22.9107 	EXP 	image: autoDraw = False
+22.9107 	EXP 	image: image = 'images/target.png'
+23.0044 	EXP 	image: autoDraw = True
+23.5545 	EXP 	New trial (rep=2, index=1): {'images': 'images/target.png'}
+23.6159 	EXP 	image: autoDraw = False
+23.6159 	EXP 	image: image = 'images/target.png'
+23.7046 	EXP 	image: autoDraw = True
+24.2540 	EXP 	New trial (rep=2, index=2): {'images': 'images/target.png'}
+24.3092 	EXP 	image: autoDraw = False
+24.3092 	EXP 	image: image = 'images/target.png'
+24.4035 	EXP 	image: autoDraw = True
+24.9543 	EXP 	New trial (rep=2, index=3): {'images': 'images/target.png'}
+25.0077 	EXP 	image: autoDraw = False
+25.0077 	EXP 	image: image = 'images/target.png'
+25.1035 	EXP 	image: autoDraw = True
+25.6562 	EXP 	New trial (rep=2, index=4): {'images': 'images/target.png'}
+25.7204 	EXP 	image: autoDraw = False
+25.7204 	EXP 	image: image = 'images/target.png'
+25.8213 	EXP 	image: autoDraw = True
+26.3546 	EXP 	New trial (rep=2, index=5): {'images': 'images/target.png'}
+26.4163 	EXP 	image: autoDraw = False
+26.4163 	EXP 	image: image = 'images/target.png'
+26.5049 	EXP 	image: autoDraw = True
+27.0544 	EXP 	New trial (rep=2, index=6): {'images': 'images/target.png'}
+27.1123 	EXP 	image: autoDraw = False
+27.1123 	EXP 	image: image = 'images/target.png'
+27.2052 	EXP 	image: autoDraw = True
+27.7554 	EXP 	New trial (rep=2, index=7): {'images': 'images/target.png'}
+27.8143 	EXP 	image: autoDraw = False
+27.8143 	EXP 	image: image = 'images/target.png'
+27.9048 	EXP 	image: autoDraw = True
+28.4559 	EXP 	New trial (rep=2, index=8): {'images': 'images/target.png'}
+28.5185 	EXP 	image: autoDraw = False
+28.5185 	EXP 	image: image = 'images/target.png'
+28.6037 	EXP 	image: autoDraw = True
+29.1550 	EXP 	New trial (rep=2, index=9): {'images': 'images/target.png'}
+29.2183 	EXP 	image: autoDraw = False
+29.2183 	EXP 	image: image = 'images/target.png'
+29.3209 	EXP 	image: autoDraw = True
+29.8544 	EXP 	New trial (rep=3, index=0): {'images': 'images/target.png'}
+29.9156 	EXP 	image: autoDraw = False
+29.9156 	EXP 	image: image = 'images/target.png'
+30.0034 	EXP 	image: autoDraw = True
+30.5562 	EXP 	New trial (rep=3, index=1): {'images': 'images/target.png'}
+30.6210 	EXP 	image: autoDraw = False
+30.6210 	EXP 	image: image = 'images/target.png'
+30.7217 	EXP 	image: autoDraw = True
+31.2561 	EXP 	New trial (rep=3, index=2): {'images': 'images/target.png'}
+31.3215 	EXP 	image: autoDraw = False
+31.3215 	EXP 	image: image = 'images/target.png'
+31.4217 	EXP 	image: autoDraw = True
+31.9557 	EXP 	New trial (rep=3, index=3): {'images': 'images/target.png'}
+32.0206 	EXP 	image: autoDraw = False
+32.0206 	EXP 	image: image = 'images/target.png'
+32.1199 	EXP 	image: autoDraw = True
+32.6550 	EXP 	New trial (rep=3, index=4): {'images': 'images/target.png'}
+32.7187 	EXP 	image: autoDraw = False
+32.7187 	EXP 	image: image = 'images/target.png'
+32.8050 	EXP 	image: autoDraw = True
+33.3539 	EXP 	New trial (rep=3, index=5): {'images': 'images/target.png'}
+33.4063 	EXP 	image: autoDraw = False
+33.4063 	EXP 	image: image = 'images/target.png'
+33.5052 	EXP 	image: autoDraw = True
+34.0533 	EXP 	New trial (rep=3, index=6): {'images': 'images/target.png'}
+34.1084 	EXP 	image: autoDraw = False
+34.1084 	EXP 	image: image = 'images/target.png'
+34.2034 	EXP 	image: autoDraw = True
+34.2558 	DATA 	Keypress: escape
+35.0194 	EXP 	window1: mouseVisible = True
