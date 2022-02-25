@@ -29,7 +29,7 @@ This `main` branch contains completed releases for this project. For all work-in
 | Data Collection | Ian Cespedes, William Padua Jimenez, Ada Chow-Franjul, Lauren Weber |
 
 
-Learn more about us [here](www.ndclab.com/people).
+Learn more about us [here](https://www.ndclab.com/people).
 
 ## Contributing
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
