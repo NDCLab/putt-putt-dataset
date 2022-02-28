@@ -1,0 +1,4 @@
+﻿images,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,image.started,image.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+images/target.png,0,0,0,7,15.426454699947499,None,,001,2022_Jan_24_1101,Sarah,2021.2.3,238.41539561682197,
+images/target.png,0,1,1,4,21.38849159993697,None,,001,2022_Jan_24_1101,Sarah,2021.2.3,238.41539561682197,
+images/target.png,0,2,2,1,27.394927899935283,None,,001,2022_Jan_24_1101,Sarah,2021.2.3,238.41539561682197,
