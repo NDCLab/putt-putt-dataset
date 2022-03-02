@@ -33,7 +33,9 @@ project-name
     ├──preprocessed
 ├── literature
 ├── materials
+    ├──abstract_ncur.md
     ├──questionnaires
+    ├──protocol-and-task-stimuli
     ├──flanker_golf_tasks
           ├──protocol.md
           ├──scripts
