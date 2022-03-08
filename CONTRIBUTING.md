@@ -33,7 +33,7 @@ project-name
 ├── materials
     ├──abstract_ncur.md
     ├──questionnaires
-    ├──protocol-and-task-stimuli
+    ├──protocol
     ├──flanker_golf_tasks
           ├──protocol.md
           ├──scripts
