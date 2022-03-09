@@ -1,14 +1,4 @@
-# Protocol and stimuli for putt-putt-miss
+# Putt-putt-dataset Protocol
 
-### Instructions
-This folder contains the protocols, scripts, and stimuli used to create this experimental task. 
-
-The protocol.md file may contains a link to a Google Doc with the protocol.
-
-
-### Project Notes
-
-The protocol is a "living document" and every RA in the NDC lab should feel welcome to add suggestions, however, the core parts of it will remain throughout the study. 
-
-
+https://docs.google.com/document/d/1q5P3LuqCIZW-Roq-jZgk72eXdbwc0Wl88NoDY5Vmq08/edit#heading=h.v1c2g4e8xmvp
 
