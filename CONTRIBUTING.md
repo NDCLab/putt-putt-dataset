@@ -13,11 +13,9 @@ Please note our general guidelines for contributing to NDCLab projects [here](ht
 ## Roadmap
 Please see the roadmap available on the [README.md](README.md) file of this repository.
 
-:point_right: Keep the "Roadmap" text above but update the link to the `readme` for your repo. And, of course, delete this note before publishing the contributing file.
 
 
 ## Directory Structure
-:point_right: Update this section as appropriate for your repo, then delete this note before publishing.
 
 ```yml
 project-name
@@ -33,7 +31,9 @@ project-name
     ├──preprocessed
 ├── literature
 ├── materials
+    ├──abstract_ncur.md
     ├──questionnaires
+    ├──protocol
     ├──flanker_golf_tasks
           ├──protocol.md
           ├──scripts
