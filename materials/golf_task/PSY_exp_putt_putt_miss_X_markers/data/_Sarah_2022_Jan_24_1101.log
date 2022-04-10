@@ -1,0 +1,26 @@
+1.3489 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+5.7718 	WARNING 	User requested fullscreen with size [1440  900], but screen is actually [1920, 1080]. Using actual size
+9.9226 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000194658AD390>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000194658F0A58>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.9231 	EXP 	window1: mouseVisible = True
+9.9232 	EXP 	window1: recordFrameIntervals = False
+9.9632 	EXP 	window1: recordFrameIntervals = True
+10.0093 	EXP 	window1: recordFrameIntervals = False
+10.2134 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+10.3618 	EXP 	Imported conditions.xlsx as conditions, 10 conditions, 1 params
+10.3637 	EXP 	Created sequence: random, trialTypes=10, nReps=180, seed=None
+10.3644 	EXP 	New trial (rep=0, index=0): {'images': 'images/target.png'}
+10.4320 	EXP 	image: image = 'images/target.png'
+15.4265 	EXP 	image: autoDraw = True
+16.3609 	EXP 	New trial (rep=0, index=1): {'images': 'images/target.png'}
+16.3917 	EXP 	image: autoDraw = False
+16.3917 	EXP 	image: image = 'images/target.png'
+21.3885 	EXP 	image: autoDraw = True
+22.3633 	EXP 	New trial (rep=0, index=2): {'images': 'images/target.png'}
+22.4007 	EXP 	image: autoDraw = False
+22.4007 	EXP 	image: image = 'images/target.png'
+27.3949 	EXP 	image: autoDraw = True
+28.3604 	EXP 	New trial (rep=0, index=3): {'images': 'images/target.png'}
+28.3950 	EXP 	image: autoDraw = False
+28.3950 	EXP 	image: image = 'images/target.png'
+29.6593 	DATA 	Keypress: escape
+32.3047 	EXP 	window1: mouseVisible = True
