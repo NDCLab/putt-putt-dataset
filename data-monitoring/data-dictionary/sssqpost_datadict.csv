@@ -1,0 +1,11 @@
+﻿variable,description,detail,allowedSuffix,valueType,allowedValues,valueInfo,naValueType,activeStatus,replacement,provenance
+sssqpost_i14,"SSSQPOST, question 14: recent thoughts",I tried to figure myself out.,"s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Integer,"1, 2, 3, 4, 5","1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5",NA,1,NA,direct-redcap
+sssqpost_i15,"SSSQPOST, question 15: recent thoughts",I reflected about myself.,"s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Integer,"1, 2, 3, 4, 5","1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5",NA,1,NA,direct-redcap
+sssqpost_i16,"SSSQPOST, question 16: recent thoughts",I daydreamed about myself.,"s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Integer,"1, 2, 3, 4, 5","1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5",NA,1,NA,direct-redcap
+sssqpost_i18,"SSSQPOST, question 18: recent thoughts",I felt self-conscious.,"s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Integer,"1, 2, 3, 4, 5","1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5",NA,1,NA,direct-redcap
+sssqpost_i19,"SSSQPOST, question 19: recent thoughts",I was worried about what other people would think of me.,"s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Integer,"1, 2, 3, 4, 5","1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5",NA,1,NA,direct-redcap
+sssqpost_i20,"SSSQPOST, question 20: recent thoughts",I was concerned about the impression I was making.,"s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Integer,"1, 2, 3, 4, 5","1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5",NA,1,NA,direct-redcap
+sssqpost_i23,"SSSQPOST, question 23: recent thoughts",I thought about how others have done on this task.,"s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Integer,"1, 2, 3, 4, 5","1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5",NA,1,NA,direct-redcap
+sssqpost_i24,"SSSQPOST, question 24: recent thoughts",I thought about how I would feel if I were told how I performed.,"s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Integer,"1, 2, 3, 4, 5","1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5",NA,1,NA,direct-redcap
+sssqpost_scrdWry,SSSQPOST worry subscore,"average of all sssqpost items 14, 15, 16, 18, 19, 20, 23, and 24 (NA if sssqpost_percWry < 0.8)","s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Real,"[1,5]",NA,NA,1,NA,code-instruments
+sssqpost_percWry,SSSQPOST worry percentage complete,percentage of response for sssqpost worry items (NA if all items are blank),"s1_r1_e1, s1_r1_e2, s1_r1_e3, s1_r1_e4",Real,"[0,1]",NA,NA,1,NA,code-instruments
