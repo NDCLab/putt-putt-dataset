@@ -1,7 +1,5 @@
 ﻿variable,description,detail,allowedSuffix,valueType,allowedValues,valueInfo,naValueType,activeStatus,replacement,provenance
-S1,"Sends ""S1"" as a stimulus trigger",Stimulus trigger sent from Legion to Thinkpad,"s1_r1_e1, s1_r1_e2",char,S1,NA,NA,1,NA,direct-psychopy
-contact,Coded timestamp when the participant makes contact with the ball,Timestamp is marked when the participant makes contact with the ball,"s1_r1_e1, s1_r1_e2",integer,"[0,inf]",ms,NA,1,NA,manual-timestamps_coding_protocol
-ramp,Coded timestamp when the golf ball passes the tape mark on the ramp,Timestamp is marked in the exact moment the golf ball passes the tape mark on the ramp,"s1_r1_e1, s1_r1_e2",integer,"[0,inf]",ms,NA,1,NA,manual-timestamps_coding_protocol
-x_markers,"Coded timestamp every time an ""X"" shows on the stimulus computer","Timestamp is marked in the exact moment the ""X"" appears on the computer screen behind the participant","s1_r1_e1, s1_r1_e2",integer,"[0,inf]",ms,NA,1,NA,manual-timestamps_coding_protocol
-,,,,,,,,,,
-,,,,,,,,,,
+S1,"Sends ""S1"" as a stimulus trigger",Stimulus trigger sent from Legion to Thinkpad,"s1_r1_e1, s1_r1_e2",Char,S1,NA,NA,1,NA,direct-psychopy
+contact,Coded timestamp when the participant makes contact with the ball,Timestamp is marked when the participant makes contact with the ball,"s1_r1_e1, s1_r1_e2",Integer,"[0,inf]",ms,NA,1,NA,manual-timestamps_coding_protocol
+ramp,Coded timestamp when the golf ball passes the tape mark on the ramp,Timestamp is marked in the exact moment the golf ball passes the tape mark on the ramp,"s1_r1_e1, s1_r1_e2",Integer,"[0,inf]",ms,NA,1,NA,manual-timestamps_coding_protocol
+x_markers,"Coded timestamp every time an ""X"" shows on the stimulus computer","Timestamp is marked in the exact moment the ""X"" appears on the computer screen behind the participant","s1_r1_e1, s1_r1_e2",Integer,"[0,inf]",ms,NA,1,NA,manual-timestamps_coding_protocol
