@@ -26,7 +26,7 @@ This `main` branch contains completed releases for this project. For all work-in
 | Conceptualization | Sarah Malykke |
 | Project Administration | Sarah Malykke, Olivia A. Stibolt |
 | Supervision | Dr. George A. Buzzell |
-| Data Collection | William Padua Jimenez, Lauren Weber |
+| Data Collection | Lauren Weber |
 
 
 Learn more about us [here](https://www.ndclab.com/people).
